@@ -11,6 +11,7 @@
 		EEC654532B6151CE00C54C45 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEC654522B6151CE00C54C45 /* ContentView.swift */; };
 		EEC654552B6151D000C54C45 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EEC654542B6151D000C54C45 /* Assets.xcassets */; };
 		EEC654582B6151D000C54C45 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EEC654572B6151D000C54C45 /* Preview Assets.xcassets */; };
+		EEC6545F2B61532000C54C45 /* DoTryCatchThrowsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEC6545E2B61532000C54C45 /* DoTryCatchThrowsBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		EEC654522B6151CE00C54C45 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		EEC654542B6151D000C54C45 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EEC654572B6151D000C54C45 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EEC6545E2B61532000C54C45 /* DoTryCatchThrowsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoTryCatchThrowsBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				EEC654502B6151CE00C54C45 /* ConcurrencyPracticeApp.swift */,
 				EEC654522B6151CE00C54C45 /* ContentView.swift */,
+				EEC6545E2B61532000C54C45 /* DoTryCatchThrowsBootCamp.swift */,
 				EEC654542B6151D000C54C45 /* Assets.xcassets */,
 				EEC654562B6151D000C54C45 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EEC654532B6151CE00C54C45 /* ContentView.swift in Sources */,
+				EEC6545F2B61532000C54C45 /* DoTryCatchThrowsBootCamp.swift in Sources */,
 				EEC654512B6151CE00C54C45 /* ConcurrencyPracticeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
