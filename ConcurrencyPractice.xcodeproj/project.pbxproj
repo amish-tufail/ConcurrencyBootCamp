@@ -14,6 +14,7 @@
 		EEC6545F2B61532000C54C45 /* DoTryCatchThrowsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEC6545E2B61532000C54C45 /* DoTryCatchThrowsBootCamp.swift */; };
 		EEC654612B6168F000C54C45 /* DownloadImageAsyncAwaitBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEC654602B6168F000C54C45 /* DownloadImageAsyncAwaitBootCamp.swift */; };
 		EEC654632B63BCB000C54C45 /* AsyncAwaitBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEC654622B63BCB000C54C45 /* AsyncAwaitBootCamp.swift */; };
+		EEC654652B67893B00C54C45 /* TaskBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEC654642B67893B00C54C45 /* TaskBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		EEC6545E2B61532000C54C45 /* DoTryCatchThrowsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoTryCatchThrowsBootCamp.swift; sourceTree = "<group>"; };
 		EEC654602B6168F000C54C45 /* DownloadImageAsyncAwaitBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadImageAsyncAwaitBootCamp.swift; sourceTree = "<group>"; };
 		EEC654622B63BCB000C54C45 /* AsyncAwaitBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncAwaitBootCamp.swift; sourceTree = "<group>"; };
+		EEC654642B67893B00C54C45 /* TaskBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				EEC6545E2B61532000C54C45 /* DoTryCatchThrowsBootCamp.swift */,
 				EEC654602B6168F000C54C45 /* DownloadImageAsyncAwaitBootCamp.swift */,
 				EEC654622B63BCB000C54C45 /* AsyncAwaitBootCamp.swift */,
+				EEC654642B67893B00C54C45 /* TaskBootCamp.swift */,
 				EEC654542B6151D000C54C45 /* Assets.xcassets */,
 				EEC654562B6151D000C54C45 /* Preview Content */,
 			);
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EEC654612B6168F000C54C45 /* DownloadImageAsyncAwaitBootCamp.swift in Sources */,
+				EEC654652B67893B00C54C45 /* TaskBootCamp.swift in Sources */,
 				EEC654532B6151CE00C54C45 /* ContentView.swift in Sources */,
 				EEC6545F2B61532000C54C45 /* DoTryCatchThrowsBootCamp.swift in Sources */,
 				EEC654632B63BCB000C54C45 /* AsyncAwaitBootCamp.swift in Sources */,
