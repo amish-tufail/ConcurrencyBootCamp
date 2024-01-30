@@ -16,6 +16,7 @@
 		EEC654632B63BCB000C54C45 /* AsyncAwaitBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEC654622B63BCB000C54C45 /* AsyncAwaitBootCamp.swift */; };
 		EEC654652B67893B00C54C45 /* TaskBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEC654642B67893B00C54C45 /* TaskBootCamp.swift */; };
 		EEC654672B67981400C54C45 /* AsyncLetBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEC654662B67981400C54C45 /* AsyncLetBootCamp.swift */; };
+		EEC654692B679F5C00C54C45 /* TaskGroupBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEC654682B679F5C00C54C45 /* TaskGroupBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		EEC654622B63BCB000C54C45 /* AsyncAwaitBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncAwaitBootCamp.swift; sourceTree = "<group>"; };
 		EEC654642B67893B00C54C45 /* TaskBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskBootCamp.swift; sourceTree = "<group>"; };
 		EEC654662B67981400C54C45 /* AsyncLetBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncLetBootCamp.swift; sourceTree = "<group>"; };
+		EEC654682B679F5C00C54C45 /* TaskGroupBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskGroupBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				EEC654622B63BCB000C54C45 /* AsyncAwaitBootCamp.swift */,
 				EEC654642B67893B00C54C45 /* TaskBootCamp.swift */,
 				EEC654662B67981400C54C45 /* AsyncLetBootCamp.swift */,
+				EEC654682B679F5C00C54C45 /* TaskGroupBootCamp.swift */,
 				EEC654542B6151D000C54C45 /* Assets.xcassets */,
 				EEC654562B6151D000C54C45 /* Preview Content */,
 			);
@@ -159,6 +162,7 @@
 				EEC654632B63BCB000C54C45 /* AsyncAwaitBootCamp.swift in Sources */,
 				EEC654512B6151CE00C54C45 /* ConcurrencyPracticeApp.swift in Sources */,
 				EEC654672B67981400C54C45 /* AsyncLetBootCamp.swift in Sources */,
+				EEC654692B679F5C00C54C45 /* TaskGroupBootCamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

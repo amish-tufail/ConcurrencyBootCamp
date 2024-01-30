@@ -45,6 +45,8 @@ struct AsyncLetBootCamp: View {
                 // 1. async let executes all at once
                 // 2. then we combine and await on all of them, like till the last is not executed, once its done we get images and then append so, they all appear at once
                 // NOTE: It is good only for few task, but multiple tasks we use TaskGroup
+                // NOTE: Async let can return mutilple types but Task Group Return only one
+                
                 let task2 = Task {
                     async let fetchimage1 = downloadImage()
                     async let fetchimage2 = downloadImage()
@@ -52,6 +54,7 @@ struct AsyncLetBootCamp: View {
                     async let fetchimage4 = downloadImage()
                     
                     let (image1, image2, image3, image4) = await (try fetchimage1, try fetchimage2, try fetchimage3, try fetchimage4)
+                    
                     self.images.append(contentsOf: [image1, image2, image3, image4])
                 }
             }
