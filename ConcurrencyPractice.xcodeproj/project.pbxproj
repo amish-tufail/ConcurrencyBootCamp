@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		EE1450F62B68DF4800D39422 /* ContinuationsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE1450F52B68DF4800D39422 /* ContinuationsBootCamp.swift */; };
+		EE875E072B87906A0005651E /* StructClassActorBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE875E062B87906A0005651E /* StructClassActorBootCamp.swift */; };
 		EEC654512B6151CE00C54C45 /* ConcurrencyPracticeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEC654502B6151CE00C54C45 /* ConcurrencyPracticeApp.swift */; };
 		EEC654532B6151CE00C54C45 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEC654522B6151CE00C54C45 /* ContentView.swift */; };
 		EEC654552B6151D000C54C45 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EEC654542B6151D000C54C45 /* Assets.xcassets */; };
@@ -22,6 +23,7 @@
 
 /* Begin PBXFileReference section */
 		EE1450F52B68DF4800D39422 /* ContinuationsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContinuationsBootCamp.swift; sourceTree = "<group>"; };
+		EE875E062B87906A0005651E /* StructClassActorBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StructClassActorBootCamp.swift; sourceTree = "<group>"; };
 		EEC6544D2B6151CE00C54C45 /* ConcurrencyPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ConcurrencyPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EEC654502B6151CE00C54C45 /* ConcurrencyPracticeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcurrencyPracticeApp.swift; sourceTree = "<group>"; };
 		EEC654522B6151CE00C54C45 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 				EEC654662B67981400C54C45 /* AsyncLetBootCamp.swift */,
 				EEC654682B679F5C00C54C45 /* TaskGroupBootCamp.swift */,
 				EE1450F52B68DF4800D39422 /* ContinuationsBootCamp.swift */,
+				EE875E062B87906A0005651E /* StructClassActorBootCamp.swift */,
 				EEC654542B6151D000C54C45 /* Assets.xcassets */,
 				EEC654562B6151D000C54C45 /* Preview Content */,
 			);
@@ -166,6 +169,7 @@
 				EE1450F62B68DF4800D39422 /* ContinuationsBootCamp.swift in Sources */,
 				EEC654512B6151CE00C54C45 /* ConcurrencyPracticeApp.swift in Sources */,
 				EEC654672B67981400C54C45 /* AsyncLetBootCamp.swift in Sources */,
+				EE875E072B87906A0005651E /* StructClassActorBootCamp.swift in Sources */,
 				EEC654692B679F5C00C54C45 /* TaskGroupBootCamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
