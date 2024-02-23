@@ -188,6 +188,7 @@ extension StructClassActorBootcamp {
             let objectA = MyActor(title: "Starting title!")
             await print("ObjectA: ", objectA.title)
 
+//            objectA.title = "New Title" // Cant do this
             print("Pass the REFERENCE of objectA to objectB.")
             let objectB = objectA
             await print("ObjectB: ", objectB.title)
