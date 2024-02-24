@@ -11,6 +11,7 @@
 		EE875E072B87906A0005651E /* StructClassActorBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE875E062B87906A0005651E /* StructClassActorBootCamp.swift */; };
 		EE875E092B88DB6F0005651E /* ActorsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE875E082B88DB6F0005651E /* ActorsBootCamp.swift */; };
 		EE875E0B2B8905E70005651E /* GlobalActorBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE875E0A2B8905E70005651E /* GlobalActorBootCamp.swift */; };
+		EE875E0D2B8A104C0005651E /* SendableBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE875E0C2B8A104C0005651E /* SendableBootCamp.swift */; };
 		EEC654512B6151CE00C54C45 /* ConcurrencyPracticeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEC654502B6151CE00C54C45 /* ConcurrencyPracticeApp.swift */; };
 		EEC654532B6151CE00C54C45 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEC654522B6151CE00C54C45 /* ContentView.swift */; };
 		EEC654552B6151D000C54C45 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EEC654542B6151D000C54C45 /* Assets.xcassets */; };
@@ -28,6 +29,7 @@
 		EE875E062B87906A0005651E /* StructClassActorBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StructClassActorBootCamp.swift; sourceTree = "<group>"; };
 		EE875E082B88DB6F0005651E /* ActorsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActorsBootCamp.swift; sourceTree = "<group>"; };
 		EE875E0A2B8905E70005651E /* GlobalActorBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlobalActorBootCamp.swift; sourceTree = "<group>"; };
+		EE875E0C2B8A104C0005651E /* SendableBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SendableBootCamp.swift; sourceTree = "<group>"; };
 		EEC6544D2B6151CE00C54C45 /* ConcurrencyPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ConcurrencyPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EEC654502B6151CE00C54C45 /* ConcurrencyPracticeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcurrencyPracticeApp.swift; sourceTree = "<group>"; };
 		EEC654522B6151CE00C54C45 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 				EE875E062B87906A0005651E /* StructClassActorBootCamp.swift */,
 				EE875E082B88DB6F0005651E /* ActorsBootCamp.swift */,
 				EE875E0A2B8905E70005651E /* GlobalActorBootCamp.swift */,
+				EE875E0C2B8A104C0005651E /* SendableBootCamp.swift */,
 				EEC654542B6151D000C54C45 /* Assets.xcassets */,
 				EEC654562B6151D000C54C45 /* Preview Content */,
 			);
@@ -174,6 +177,7 @@
 				EEC6545F2B61532000C54C45 /* DoTryCatchThrowsBootCamp.swift in Sources */,
 				EEC654632B63BCB000C54C45 /* AsyncAwaitBootCamp.swift in Sources */,
 				EE1450F62B68DF4800D39422 /* ContinuationsBootCamp.swift in Sources */,
+				EE875E0D2B8A104C0005651E /* SendableBootCamp.swift in Sources */,
 				EEC654512B6151CE00C54C45 /* ConcurrencyPracticeApp.swift in Sources */,
 				EEC654672B67981400C54C45 /* AsyncLetBootCamp.swift in Sources */,
 				EE875E072B87906A0005651E /* StructClassActorBootCamp.swift in Sources */,
